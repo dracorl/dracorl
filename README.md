@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hey there, I'm Engin</h1>
+<h3 align="center">Computer Engineer, Software Developer</h3>
 
-<!--
-**dracorlll/dracorlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Home
+- 💬 My interests JavaScript, Embedded Programming, Raspberry
+- 📫 How to reach me: <info@enginyuksel.kim>
+- 🎸 I like playing guitar and video games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/-dracorllll-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/dracorllll/)](https://www.twitter.com/dracorllll/)
+[![Discord Badge](https://img.shields.io/discord/291991546901823488?label=Discord)](https://discord.gg/WBFxs6c)
+![Profile Badge](https://komarev.com/ghpvc/?username=dracorlll&label=Profile%20views&color=0e75b6&style=flat)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dracorlll&show_icons=true&locale=en" alt="enginyüksel" /></p>
