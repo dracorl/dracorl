@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Home
 - 💬 My interests JavaScript, Embedded Programming, Raspberry
-- 📫 How to reach me: <info@enginyuksel.kim>
+- 📫 How to reach me: <ykslngn@gmail.com>
 - 🎸 I like playing guitar and video games
 
 [![Twitter Badge](https://img.shields.io/badge/-dracorllll-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/dracorllll/)](https://www.twitter.com/dracorllll/)
